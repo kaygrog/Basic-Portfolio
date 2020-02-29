@@ -122,7 +122,7 @@ label {
 }
 
 input[type=text], #message {
-    width: 100%;
+    width: 870px;
     padding: 8px;
     color: #777777;
     font-size: 14px;
